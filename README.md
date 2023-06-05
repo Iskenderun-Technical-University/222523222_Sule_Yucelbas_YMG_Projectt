@@ -48,3 +48,17 @@ Hazırlamış olduğum kütüphane otomasyon programının bazı güçlü yanlar
 Bu iyi yanlar, projeye ait kodun okunabilir, yönetilebilir ve kullanıcı dostu olmasını sağlamaktadır. Ayrıca, veri tabanı kullanımı ve doğrulama işlemleri gibi güvenlik önlemleri de mevcuttur. Projeye ait grafik ara yüzü Şekil 5’de görülmektedir.
 # ![image](https://github.com/Iskenderun-Technical-University/222523222_Sule_Yucelbas_YMG_Projectt/assets/37442135/54c33f4a-89e4-4a49-a10f-35e5f9f19f0f)
 # Şekil 5. Kütüphane Otomasyonu grafik ara yüzü
+Programda, messagebox modülü kullanılarak hata mesajları ve girişler gösterilir. Bu, kullanıcılara hatalı girişleri veya işlemleri hakkında geri bildirim sağlamaktadır. Aşağıda, kullanıcının hatalı girişleri sonucunda alınan hata mesajları gösterilmektedir. Şekil 6, hatalı kurum ortak şifresi girildiğinde karşılaşılan hata mesajıdır.
+# ![image](https://github.com/Iskenderun-Technical-University/222523222_Sule_Yucelbas_YMG_Projectt/assets/37442135/6533d1b2-3d09-4b6c-a02b-74c591b1dc8e)
+# Şekil 6. Yanlış kurum ortak şifresi girişi sonucunda alınan hata mesajı
+Şekil 7 hatalı admin şifresi girildiğinde karşılaşılan hata mesajıdır.
+# ![image](https://github.com/Iskenderun-Technical-University/222523222_Sule_Yucelbas_YMG_Projectt/assets/37442135/932a539f-2c13-454c-8383-83fbbbcc3a5a)
+# Şekil 7. Yanlış admin şifresi girişi sonucunda alınan hata mesajı
+Şekil 8, kiralanmış bir kitap admin tarafından silinmeye çalışıldığında karşılaşılan hata mesajıdır.
+# ![image](https://github.com/Iskenderun-Technical-University/222523222_Sule_Yucelbas_YMG_Projectt/assets/37442135/224f1755-7836-4652-b00b-0c1a407500b7)
+# Şekil 8. Kiralanmış bir kitap admin tarafından silinmeye çalışıldığında karşılaşılan hata mesajı
+Son olarak Şekil 9, ortak kullanıcı bir kitabı kiralamak veya iade etmek istediğinde karşılaştığı giriş mesajını göstermektedir.
+# ![image](https://github.com/Iskenderun-Technical-University/222523222_Sule_Yucelbas_YMG_Projectt/assets/37442135/0c63849f-e56b-45b3-bdd7-1d83a78e19d5)
+# Şekil 9. Ortak kullanıcı bir kitabı kiralamak veya iade etmek istediğinde karşılaştığı giriş mesajı
+
+
